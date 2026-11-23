@@ -1,4 +1,4 @@
-# Data Scientist | Python, SQL, ML | 3+ года в коммерческой аналитике | Ищу позицию Data Scientist
+# Data Scientist | Python, SQL, ML | 3+ года в коммерческой аналитике |
 
 ## О себе
 
