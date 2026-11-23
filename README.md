@@ -18,6 +18,6 @@
 
 - Telegram: [@pereydi_rubicon](https://t.me/pereydi_rubicon)
 - GitHub: [github.com/pereydirubicon](https://github.com/pereydirubicon)
-- Портфолио: [data-science-portfolio](https://github.com/pereydirubicon/data-science-portfolio)
-- ✅ Открыта к предложениям на позицию Data Scientist (полная занятость, удалённо)
+- Портфолио: [data-science-portfolio](https://github.com/pereydirubicon/yandex-practicum-data-science-portfolio)
+- ✅ Ищу позицию Data Scientist (полная занятость, удалённо)
 - ✅ Готова выполнить тестовое задание и пройти собеседование
